@@ -1,0 +1,4 @@
+### 1.3 | 2020-05-13
+- Added security enhancements.
+- Updated stylesheets to use minified versions.
+- Fixed a PHP error which could occur when using the https_local_ssl_verify filter with WP 5.1+.
